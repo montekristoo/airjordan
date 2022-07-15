@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/airjordan/static/css/main.bf777e26.css",
+    "main.js": "/airjordan/static/js/main.ffba389b.js",
+    "static/js/787.c6c9fb7e.chunk.js": "/airjordan/static/js/787.c6c9fb7e.chunk.js",
+    "static/media/Chicago.png": "/airjordan/static/media/Chicago.1c6d0844998902acba49.png",
+    "static/media/StadiumGreen.png": "/airjordan/static/media/StadiumGreen.d692960fd0b5fc90620e.png",
+    "static/media/SmokeGrey.png": "/airjordan/static/media/SmokeGrey.37fbe8933bb398f6bf4b.png",
+    "static/media/IslandGreen.png": "/airjordan/static/media/IslandGreen.bd2767b1b1afa8405b05.png",
+    "index.html": "/airjordan/index.html",
+    "main.bf777e26.css.map": "/airjordan/static/css/main.bf777e26.css.map",
+    "main.ffba389b.js.map": "/airjordan/static/js/main.ffba389b.js.map",
+    "787.c6c9fb7e.chunk.js.map": "/airjordan/static/js/787.c6c9fb7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf777e26.css",
+    "static/js/main.ffba389b.js"
+  ]
+}
